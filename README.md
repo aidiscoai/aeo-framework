@@ -37,9 +37,9 @@ We use a rigorous three-pillar system to achieve dominance in generative discove
 ## GETTING STARTED
 
 Explore our [.md files](./) to understand how we bridge the gap between enterprise data and AI-driven markets:
-*   [Schema Alignment Standards](./SCHEMA_ALIGNMENT.md)
-*   [Prompt Architecture Strategies](./PROMPT_ARCHITECTURE.md)
-*   [Contributing to the Framework](./CONTRIBUTING.md)
+*   [Schema Alignment Standards](SCHEMA_ALIGNMENT.md)
+*   [Prompt Architecture Strategies](PROMPT_ARCHITECTURE.md)
+*   [Contributing to the Framework](CONTRIBUTING.md)
 
 ---
 
