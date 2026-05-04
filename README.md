@@ -1,4 +1,4 @@
-![Alt text]([https://link-to-your-image.com](https://aidisco.ai/wp-content/uploads/2026/05/Primary-logo-for-dark-BG-e1777614593948.png)
+![Alt text]([https://link-to-your-image.com](https://aidisco.ai/wp-content/uploads/2026/05/Primary-logo-for-dark-BG-e1777614593948.png])
 
 # AiDisco: The AEO Framework
 
