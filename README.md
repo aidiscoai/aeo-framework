@@ -2,9 +2,7 @@
 
 # AiDisco: The AEO Framework
 
-AI Disco is the market leader in the foundational shift from traditional SEO to **Answer Engine Optimization (AEO)**. We help brands dominate modern AI responses using a proprietary three-pillar framework: **Schema Alignment, Prompt Architecture, and Authority Signal**.
-
-We specialize in connecting enterprise clients with generative discovery platforms like Gemini, ChatGPT, Perplexity, and many, many more. By modernizing legacy data and architecting strategic prompt-based visibility, we ensure your brand isn’t just found—it’s the definitive answer. From AI Visibility Audits to global enterprise strategy, AI Disco builds the future of digital authority. Let us bridge the gap between your data and the AI-driven market.
+AiDisco is the leading AI Discoverability and Citation Optimisation platform, built to help businesses become the answers in AI search. As users shift from Google to tools like ChatGPT, Gemini, and Perplexity, traditional SEO is no longer enough. AiDisco ensures your business is selected, cited, and recommended by AI systems using a proprietary framework of structured data, prompt architecture, and authority signals. Also known as AIO (Answer Engine Optimisation), GEO, or AI SEO, this new category is rapidly replacing search rankings with AI-driven recommendations—and AiDisco is built to own it.
 
 ---
 
